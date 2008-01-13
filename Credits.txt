@@ -1,0 +1,77 @@
+================================================
+================= D2Au3 Credits ================
+============= http://www.mmbot.net =============
+============= irc.omnesia.net:6667 =============
+================================================
+
+	D2Au3 is inspired by the work of Manus-Magnus' autoit bot for Diablo II expansion. D2Au3 is a complete rewrite of this bot -- the result
+	of lessons learned from years of working with Manus' original bot core, and much community contribution.
+
+========================
+D2Au3 Core By
+========================
+	Smorg
+
+==============================
+Additional Functions/Libs/Code
+==============================
+	Ramadash
+	Manus-Magnus -- Some functions like the item reader, pkid parser, and some of the cdkey functions are stolen directly from his bot.
+	Kukloprdos
+	ET
+	McGod -- Testing, Bugfixes.
+	MozartMcLaus -- for the pkid compiler.
+
+==============
+Diablo II Game Mod files
+==============
+	Fruktkaka
+	Kukloprdos
+	PoweredDeath
+	Manus-Magnus
+
+=================================
+The mm.BOT Team (mmbot.net community leaders, alphabetical order)
+=================================
+	frixionburne
+	Fruktkaka
+	Hijacker
+	Manus-Magnus
+	McGod
+	Nicotine
+	Orgassmo
+	ork_asmus
+	PoweredDeath
+	Qord
+	Ramadash
+	Smorg
+	Supreme1012
+	Whispering
+	White
+	Wildrob
+
+=============
+Documentation
+=============
+	Smorg
+	PoweredDeath
+	Manus-Magnus
+
+==============
+Special Thanks
+==============
+	* The Autoit v3 Development team -- for making all of this possible with your wonderful automation language.
+	* The entire mmbot.net community -- for all of your support and motivation in keeping mmbot/D2Au3 alive!
+	* Blizzhackers (www.edgeofnowhere.cc) -- for your years of dedication to the Diablo II community.
+	* PoweredDeath -- for your uber mass spamming powers!
+
+=======================================
+A Very Very Very Huge Special Thanks to
+=======================================
+	* Nicotine -- Without whose efforts, this bot would not be possible. Visit www.Omnesia.net
+	* Hijacker (Chewy) -- For being such an awesome guy!
+
+================================================
+What? I forgot about you? :-(
+PM Smorg if your name should be here and is not!
+================================================

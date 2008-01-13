@@ -1,0 +1,4 @@
+2007-11-29 23:24:42 : [W] = Unable to open menu.
+2007-11-29 23:25:05 : [M] = Drank a life/mana pot. Life - 68%
+2007-11-29 23:25:22 : [M] = Drank a life/mana pot. Life - 69%
+2007-11-29 23:25:41 : [M] = Drank a life/mana pot. Life - 69%

@@ -1,0 +1,73 @@
+[11/24/2007 10:34:27 PM][W]-> 182.604493029142
+[11/24/2007 10:34:40 PM][W]-> Failed to see NPC Trade Window, retrying.
+[11/24/2007 10:36:18 PM][W]-> 162.140439636881
+[11/24/2007 10:36:35 PM][W]-> 184.315045627307
+[11/24/2007 10:36:47 PM][W]-> Failed to see NPC Trade Window, retrying.
+[11/24/2007 10:37:07 PM][W]-> Failed to see NPC Trade Window, retrying.
+[11/24/2007 10:37:29 PM][W]-> 167.043018037209
+[11/24/2007 10:38:59 PM][W]-> 219.943875548429
+[11/24/2007 10:39:15 PM][W]-> Pathing error: act 5 From Malah to Start Step: 1/3 Type: Walk
+[11/24/2007 10:39:16 PM][W]-> Pathing error: act 5 From Start to WP Step: 1/3 Type: Walk
+[11/24/2007 10:39:17 PM][W]-> Pathing error: act 5 From WP to Lazruk Step: 1/3 Type: Walk
+[11/24/2007 10:39:25 PM][W]-> Pathing error: act 5 From Lazruk to WP Step: 2/4 Type: Walk
+[11/24/2007 10:39:26 PM][W]-> Pathing error: act 5 From WP to Stash Step: 1/1 Type: Walk
+[11/24/2007 10:39:27 PM][W]-> Pathing error: act 5 From Stash to WP Step: 1/1 Type: Walk
+[11/24/2007 10:39:29 PM][W]-> Pathing error: act 5 From WP to Qual Step: 2/4 Type: Walk
+[11/24/2007 10:39:29 PM][W]-> NPC 'Lazruk' does not have Merc support!
+[11/24/2007 10:39:30 PM][W]-> Pathing error: act 5 From Qual to WP Step: 1/4 Type: Walk
+[11/24/2007 10:39:31 PM][W]-> Pathing error: act 5 From WP to Anya Step: 1/4 Type: Walk
+[11/24/2007 10:41:48 PM][W]-> 177.825114644459
+[11/24/2007 10:42:04 PM][W]-> Pathing error: act 5 From Malah to Start Step: 2/4 Type: Walk
+[11/24/2007 10:42:05 PM][W]-> Pathing error: act 5 From Start to WP Step: 1/3 Type: Walk
+[11/24/2007 10:42:06 PM][W]-> Pathing error: act 5 From WP to Lazruk Step: 1/3 Type: Walk
+[11/24/2007 10:42:15 PM][W]-> Pathing error: act 5 From Lazruk to WP Step: 2/4 Type: Walk
+[11/24/2007 10:42:15 PM][W]-> Pathing error: act 5 From WP to Stash Step: 1/1 Type: Walk
+[11/24/2007 10:42:17 PM][W]-> Pathing error: act 5 From Stash to WP Step: 1/1 Type: Walk
+[11/24/2007 10:42:19 PM][W]-> Pathing error: act 5 From WP to Qual Step: 2/4 Type: Walk
+[11/24/2007 10:43:15 PM][W]-> 179.868670459514
+[11/25/2007 7:43:02 PM][W]-> 270.896720113869
+[11/25/2007 7:43:21 PM][W]-> Pathing error: act 5 From Malah to Start Step: 2/4 Type: Walk
+[11/25/2007 7:43:21 PM][W]-> Pathing error: act 5 From Start to WP Step: 1/3 Type: Walk
+[11/25/2007 7:43:25 PM][W]-> Pathing error: act 5 From WP to Lazruk Step: 3/3 Type: Walk
+[11/25/2007 7:43:26 PM][W]-> Trying to interact with Lazruk Retrying Attempt #1/3
+[11/25/2007 7:43:27 PM][W]-> Trying to interact with Lazruk Retrying Attempt #2/3
+[11/25/2007 7:43:30 PM][W]-> 119.251189746183
+[11/25/2007 7:43:49 PM][W]-> Pathing error: act 5 From Malah to Start Step: 3/4 Type: Walk
+[11/25/2007 7:43:50 PM][W]-> Pathing error: act 5 From Start to WP Step: 1/3 Type: Walk
+[11/25/2007 7:43:54 PM][W]-> Pathing error: act 5 From WP to Lazruk Step: 3/3 Type: Walk
+[11/25/2007 7:45:40 PM][W]-> 123.240802951213
+[11/25/2007 7:46:57 PM][W]-> Pathing error: act 5 From WP to Anya Step: 4/4 Type: Walk
+[11/25/2007 7:47:01 PM][W]-> Trying to find Interact screen Attempt #1/3
+[11/25/2007 7:47:02 PM][W]-> Trying to find Interact screen Attempt #2/3
+[11/25/2007 7:47:04 PM][W]-> Unable to find Malah's screen, reattempting whole interact.
+[11/25/2007 7:47:04 PM][M]-> Total interact attempt #2
+[11/25/2007 7:47:29 PM][W]-> 118.244078507185
+[11/25/2007 7:48:19 PM][W]-> 121.090250297175
+[11/25/2007 7:49:28 PM][W]-> Pathing error: act 5 From WP to Anya Step: 3/4 Type: Walk
+[11/25/2007 7:55:14 PM][W]-> 116.744167205609
+[11/25/2007 7:57:34 PM][W]-> 125.416777830702
+[11/25/2007 7:57:44 PM][W]-> We are not in stash and stashing function was called, cancel.
+[11/25/2007 7:57:49 PM][W]-> We are not in stash and stashing function was called, cancel.
+[11/25/2007 7:57:54 PM][W]-> We are not in stash and stashing function was called, cancel.
+[11/25/2007 7:58:02 PM][W]-> 116.43658621417
+[11/25/2007 7:58:25 PM][W]-> Pathing error: act 5 From Start to Malah Step: 2/2 Type: Walk
+[11/25/2007 7:58:31 PM][W]-> 118.912319861882
+[11/25/2007 7:58:41 PM][W]-> Pathing error: act 5 From Malah to Start Step: 1/4 Type: Walk
+[11/25/2007 7:59:34 PM][W]-> Trying to find Interact screen Attempt #1/3
+[11/25/2007 7:59:35 PM][W]-> Trying to find Interact screen Attempt #2/3
+[11/25/2007 7:59:36 PM][W]-> Unable to find Malah's screen, reattempting whole interact.
+[11/25/2007 7:59:36 PM][M]-> Total interact attempt #2
+[11/25/2007 8:00:17 PM][W]-> Pathing error: act 5 From WP to Anya Step: 4/4 Type: Walk
+[11/25/2007 8:00:22 PM][W]-> Trying to find Interact screen Attempt #1/3
+[11/25/2007 8:00:23 PM][W]-> Trying to find Interact screen Attempt #2/3
+[11/25/2007 8:00:24 PM][W]-> Unable to find Malah's screen, reattempting whole interact.
+[11/25/2007 8:00:24 PM][M]-> Total interact attempt #2
+[11/25/2007 8:00:28 PM][W]-> Trying to find Interact screen Attempt #1/3
+[11/25/2007 8:00:29 PM][W]-> Trying to find Interact screen Attempt #2/3
+[11/25/2007 8:00:30 PM][W]-> Unable to find Malah's screen, reattempting whole interact.
+[11/25/2007 8:00:30 PM][M]-> Total interact attempt #3
+[11/25/2007 8:00:35 PM][W]-> Trying to find Interact screen Attempt #1/3
+[11/25/2007 8:00:36 PM][W]-> Trying to find Interact screen Attempt #2/3
+[11/25/2007 8:00:37 PM][W]-> Unable to find Malah's screen, reattempting whole interact.
+[11/25/2007 8:00:39 PM][W]-> Pathing error: act 5 From Anya to WP Step: 1/4 Type: Walk
+[11/25/2007 8:00:39 PM][W]-> Pathing error: act 5 From WP to Start Step: 1/3 Type: Walk
