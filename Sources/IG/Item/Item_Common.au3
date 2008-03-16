@@ -451,10 +451,10 @@ Func Database($sType, $sClear=0)
 	;Check to see if proper area is there
 	Switch $cSize
 		Case 0;Inv
-			If Check("Inv") = 0 Then
+			;If Check("Inv") = 0 Then
 				SendKey("ClearScreen")
 				SendKey("Inventory")
-			EndIf
+			;EndIf
 		Case 1;NPC
 			Return -1;Not supported here
 		Case 2;Stash

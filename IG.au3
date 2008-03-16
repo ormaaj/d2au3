@@ -25,7 +25,7 @@ Opt("TrayIconDebug", 1)
 ;Pathing Includes
 ;------------------------------
 #include "Sources/IG/Path/Path_Common.au3"
-#include "Sources/IG/Path/Path_Hack.au3"
+;#include "Sources/IG/Path/Path_Hack.au3"
 
 ;------------------------------
 ;Attack Includes
@@ -46,6 +46,7 @@ ReadPickit ()
 WinActivate("ClassName=Diablo II")
 
 Global $sDatabase = Database("Inv", 1)
+
 
 ;Temperary func i Made to look @ my 4d array
 Func ReadArr ($Array)

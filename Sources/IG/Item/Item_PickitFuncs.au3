@@ -96,7 +96,8 @@ EndFunc
 Func ReadPickit ()
 Global $xPick[1][50][3]
 Local $sPick
-_FileReadToArray(@ScriptDir & "\Config\Au3.Pickit.ini", $sPick)
+_FileReadToArray(@ScriptDir & "\Config\Pickit.ini", $sPick)
+If @error Then Return
 For $m = 1 To $sPick[0] Step 1
 	If StringLeft($sPick[$m], 1) = ";" Then ContinueLoop
 	_CleanWS($sPick[$m])

@@ -57,6 +57,7 @@ Func ScreenCheck($ScreenName)
 EndFunc   ;==>ScreenCheck
 
 Func SendKey($pKey, $sType="PRESS", $sRaw=0)
+	LogEvent(0, $pKey & " " & $sType & " " & $sRaw)
 	If $sRaw = 0 Then
 		Local $lKey = Eval("k" & $pKey)
 		If @error Then
@@ -64,6 +65,7 @@ Func SendKey($pKey, $sType="PRESS", $sRaw=0)
 			Return 0
 		EndIf
 		Local $lRawKey = $iKey[$lKey]
+		LogEvent(0, $lKey)
 	Else
 		$lRawKey = $pKey
 	EndIf

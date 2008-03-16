@@ -11,11 +11,13 @@ Func ReadPickit ()
 	Global $xPick[1][1][4][2];Declare Global Pickit Aray
 	Local $cIt = 0, $cStat = 0, $cSubStat = 1, $sPickitList, $xPickitRead;Local variables
 	Local $tOpt[6] = [ "!=", ">=", "<=", "=", "<", ">" ] ; Every possible Operator
-	_FileReadToArray(@ScriptDir & "\Config\Au3.Pickit.ini", $sPickitList);Read in the pickit chooser(Which pickit files to load)
+	_FileReadToArray(@ScriptDir & "\Config\Pickit.ini", $sPickitList);Read in the pickit chooser(Which pickit files to load)
+	If @error Then Return
 	_CleanWS($sPickitList);Clean up whitespaces
 	For $m = 1 To $sPickitList[0] Step 1;Start the loop of all the ALL pickit files
 		If StringLeft($sPickitList[$m], 1) = ";" Then ContinueLoop;Check for commented files
 		_FileReadToArray(@ScriptDir & "\Config\Pickit\" & $sPickitList[$m], $xPickitRead);Read in first pickit file
+		If @error Then ContinueLoop
 		_CleanWS($xPickitRead);Clean up whitespaces in pickit file
 		For $x = 1 To $xPickitRead[0] Step 1;Start loop of pickit
 			If StringLeft($xPickitRead[$x], 1) = ";" Then ContinueLoop;Check for comment

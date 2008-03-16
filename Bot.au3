@@ -14,7 +14,7 @@ Global $VersionNb = "0.01"
 ;================================================
 ;Pre-Dim variables. (see the comments)
 ;================================================
-#Include "Sources/DimVars.au3"
+#Include "Sources/OOG/DimVars.au3"
 ;================================================
 ;Load Vars from D2.Config.ini and internal Declarations
 ;
@@ -50,6 +50,37 @@ LogEvent (0, "Config.ini Variables loaded.")
 ;Includes
 ;================================================
 #include <GUIConstants.au3>
+#include <GuiConstants.au3>
+#include <WindowsConstants.au3>
+#include <AVIConstants.au3>
+#include <ButtonConstants.au3>
+#include <ComboConstants.au3>
+#include <Constants.au3>
+#include <DateTimeConstants.au3>
+#include <EditConstants.au3>
+#include <FontConstants.au3>
+#include <GDIPlusConstants.au3>
+#include <HeaderConstants.au3>
+#include <ImageListConstants.au3>
+#include <IPAddressConstants.au3>
+#include <ListBoxConstants.au3>
+#include <ListViewConstants.au3>
+#include <MemoryConstants.au3>
+#include <MenuConstants.au3>
+#include <ProgressConstants.au3>
+#include <RebarConstants.au3>
+#include <SecurityConstants.au3>
+#include <SliderConstants.au3>
+#include <StaticConstants.au3>
+#include <StructureConstants.au3>
+#include <TabConstants.au3>
+#include <ToolbarConstants.au3>
+#include <TooltipConstants.au3>
+#include <TreeviewConstants.au3>
+#include <UpDownConstants.au3>
+#include <WindowsConstants.au3>
+#Include <GuiEdit.au3>
+#include <Color.au3>
 #Include <Array.au3>
 #Include <String.au3>
 #Include "Sources/Common/Checksums.au3"
@@ -92,10 +123,9 @@ EndIf
 ;================================================
 Opt("PixelCoordMode", 2)
 Opt("MouseCoordMode", 2)
-Opt("RunErrorsFatal", 0)
 
 If @OSTYPE == 'WIN32_WINDOWS' Then
-	FatalErrorMsg("Incorrect operating system", "mm.BOT is not compatible with win 9x OS' (95/98/Me.) Sorry.")
+	FatalErrorMsg("Incorrect operating system", "D2Au3 is not compatible with win 9x OS' (95/98/Me.) Sorry.")
 	Exit
 EndIf
 

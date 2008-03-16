@@ -21,7 +21,7 @@ EndFunc
 ; @ Returns: Current Weapon Set {1,2}
 ; @ ToDo: Error Handling
 ;--------------------------------------------------------
-Func MemDetectAct()
+Func MemDetectWeaponSet()
 	Local $sHandle = _MemoryOpen(ProcessExists("Diablo II.exe")) ;Get D2 process id
 	Local $sRet = _MemoryRead('0x' & Hex(Dec("6FBCBC38") + 0), $sHandle, 'dword') ;read act # (0-4) Act 1 is 0, Act2 is 1, etc..
 	_MemoryClose($sHandle) ;Close our pointer

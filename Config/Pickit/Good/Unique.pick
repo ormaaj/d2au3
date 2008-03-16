@@ -1,0 +1,28 @@
+;Unique Helmets
+
+;Harquleins Crest
+[Shako]
+Quality:=Unique
+
+
+
+;Nightwing
+[Spired Helm]
+Quality:=Unique
+AllSkills:=2
+
+
+;Crown of Ages
+[Corona]
+Quality:=Unique
+
+;Andys Mask
+[Demonhead]
+Quality:=Unique
+
+[Dusk Shroud]
+Quality:=Unique
+
+[Wire Fleece]
+Quality:=Unique
+Eth:=1

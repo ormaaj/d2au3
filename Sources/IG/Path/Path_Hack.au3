@@ -20,7 +20,7 @@ Global $sHan = _MemoryOpen($ProcessID)
 If @error Then Exit
 
 
-Func Teleport ()
+Func Teleportt ()
 	Local $sLevel = GetCurrentLevel ($sHan)
 	Switch $sLevel
 		Case "Figid Highlands"
