@@ -1,9 +1,21 @@
+; D2Au3 is Copyright 2007, 2008, 2011 by Dan Douglas
+; 
+; D2Au3 is free software: you can redistribute it and/or modify
+; it under the terms of the GNU General Public License as published by
+; the Free Software Foundation, either version 3 of the License, or
+; (at your option) any later version.
+; 
+; D2Au3 is distributed in the hope that it will be useful,
+; but WITHOUT ANY WARRANTY; without even the implied warranty of
+; MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+; GNU General Public License for more details.
+; 
+; You should have received a copy of the GNU General Public License
+; along with D2Au3.  If not, see <http://www.gnu.org/licenses/>.
+;
 ;================================================
 ;===================== D2Au3 ====================
-;============= http://www.mmbot.net =============
-;============= irc.omnesia.net:6667 =============
 ;================================================
-;See Credits.txt for a list of contributors
 ;See OOG.au3 for functions, return codes, and other comments.
 ;This is the Main out-of-game bot file. It handles cdkeys, D2 process control, game creation, life checking, and In-game thread process control.
 ;================================================
